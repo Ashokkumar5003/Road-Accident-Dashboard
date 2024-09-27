@@ -36,6 +36,11 @@ The Road Accident Dashboard provides real-time analysis of accident trends, hots
 6. **Weather Impact:** Understand the effect of weather on accident rates for better preparedness.
 
 ## Dashboard
+<img ![roadaccident screenshot](https://github.com/user-attachments/assets/88c08aa9-f1fc-4600-89aa-12b322b1928f)>
+
+## Final Conclusion
+In conclusion, the Road Accident Dashboard serves as a powerful tool for visualizing and analyzing critical road safety data. By providing insights into accident trends, hotspots, and contributing factors, it empowers stakeholders to make informed decisions aimed at reducing road accidents and enhancing public safety. This dashboard not only facilitates targeted interventions but also promotes a data-driven approach to improve overall transportation safety, ultimately contributing to safer roadways for all users.
+
 
 
     
