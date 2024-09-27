@@ -26,5 +26,19 @@ The Road Accident Dashboard provides real-time analysis of accident trends, hots
 11. **Number of Fatalities** – Number of deaths, if any.
 12. **Traffic Conditions** – Level of traffic during the accident (e.g., heavy, moderate, light).
 
+## project Insight
+
+1. **Accident Trends:** Analyze accident frequency over time (peak hours, days, or seasons).
+2. **Location Hotspots:** Identify areas with frequent accidents for targeted safety improvements.
+3. **Severity Distribution:** Examine the severity of accidents to focus on high-risk zones.
+4. **Contributing Factors:** Assess common causes like speeding or weather to prevent accidents.
+5. **Vehicle and Traffic Analysis:** Explore the relationship between vehicle type, traffic conditions, and accidents.
+6. **Weather Impact:** Understand the effect of weather on accident rates for better preparedness.
+
+## Dashboard
+
+
+    
+
 
 
