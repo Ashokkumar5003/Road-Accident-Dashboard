@@ -12,3 +12,19 @@ The Road Accident Dashboard provides real-time analysis of accident trends, hots
 ## Dataset Used
 <a href="https://github.com/Ashokkumar5003/Road-Accident-Dashboard/blob/main/Road%20Accident%20Data.xlsx">Road Accident Dataset</a>
 
+## Data Collection
+1. **Accident ID** – A unique identifier for each accident.
+2. **Date** – The date of the accident (dd/mm/yyyy).
+3. **Time** – The time of the accident (HH:MM).
+4. **Location** – Specific location details (city, street, GPS coordinates).
+5. **Weather Condition** – Weather during the accident (e.g., clear, rainy, foggy).
+6. **Accident Severity** – Classification of accident severity (e.g., minor, major, fatal).
+7. **Vehicle Type** – Type of vehicles involved (e.g., car, truck, motorcycle).
+8. **Cause of Accident** – Primary cause (e.g., speeding, distracted driving, poor road conditions).
+9. **Number of Vehicles Involved** – Count of vehicles involved in the accident.
+10. **Number of Injuries** – Number of people injured.
+11. **Number of Fatalities** – Number of deaths, if any.
+12. **Traffic Conditions** – Level of traffic during the accident (e.g., heavy, moderate, light).
+
+
+
